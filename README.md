@@ -10,4 +10,8 @@ We are the Facebook of AI AUTOMATION, basically just invest and we will become a
 4. Conflict
 5. Add some more stuff
 
+<<<<<<< HEAD
 conflict linesdsds
+=======
+conflict linedasdasdasdasda
+>>>>>>> feature/conflict-b
